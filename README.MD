@@ -12,10 +12,10 @@
 
 <center>
 <img src="https://raw.githubusercontent.com/YuYeh/Breakout/master/src/easy_mode.png" width=500 alt="font_page"/>
-簡單模式:單一球拍單一球，兩排磚塊，打光即可通關。
+簡單模式:單一球拍單一球，兩排磚塊，打光所有磚塊即可通關。
 
 <img src="https://raw.githubusercontent.com/YuYeh/Breakout/master/src/normal_mode.png" width=500 alt="font_page"/>
-普通模式:雙球拍、雙球、兩排磚塊，打完即可通關。
+普通模式:雙球拍、雙球、兩排磚塊，打完所有磚塊即可通關。
 
 <img src="https://raw.githubusercontent.com/YuYeh/Breakout/master/src/hard_mode.png" width=500 alt="font_page"/>
 困難模式:雙球拍、雙球、初始兩排磚塊，磚塊隨機生成。
