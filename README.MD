@@ -3,13 +3,10 @@
 <center><img src="https://raw.githubusercontent.com/YuYeh/Breakout/master/src/front_page.png" width=500 alt="font_page"/></center>
 
 ---
-## 開發環境、語言、所使用演算法
+## 開發環境、語言
 開發環境: Visual studio
 
 語言: C#
-
-演算法:碰撞偵測、座標轉換演算法
-
 ## 遊戲模式
 
 <center>
