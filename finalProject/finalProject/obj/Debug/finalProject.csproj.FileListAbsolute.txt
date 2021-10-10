@@ -1,0 +1,12 @@
+D:\Google 雲端硬碟\大四\資訊實務專題\finalProject\finalProject\bin\Debug\finalProject.exe.config
+D:\Google 雲端硬碟\大四\資訊實務專題\finalProject\finalProject\bin\Debug\finalProject.exe
+D:\Google 雲端硬碟\大四\資訊實務專題\finalProject\finalProject\bin\Debug\finalProject.pdb
+D:\Google 雲端硬碟\大四\資訊實務專題\finalProject\finalProject\obj\Debug\finalProject.csprojAssemblyReference.cache
+D:\Google 雲端硬碟\大四\資訊實務專題\finalProject\finalProject\obj\Debug\finalProject.Form1.resources
+D:\Google 雲端硬碟\大四\資訊實務專題\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+D:\Google 雲端硬碟\大四\資訊實務專題\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.cache
+D:\Google 雲端硬碟\大四\資訊實務專題\finalProject\finalProject\obj\Debug\finalProject.csproj.CoreCompileInputs.cache
+D:\Google 雲端硬碟\大四\資訊實務專題\finalProject\finalProject\obj\Debug\finalProject.exe
+D:\Google 雲端硬碟\大四\資訊實務專題\finalProject\finalProject\obj\Debug\finalProject.pdb
+D:\Google 雲端硬碟\大四\資訊實務專題\finalProject\finalProject\obj\Debug\finalProject.FormRule.resources
+D:\Google 雲端硬碟\大四\資訊實務專題\finalProject\finalProject\obj\Debug\finalProject.FormGame.resources
